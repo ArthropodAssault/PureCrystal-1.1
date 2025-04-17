@@ -75,13 +75,19 @@ Whirlpool is now 85% accurate
 
 Wrap is now 90% accurate
 
-=================================
+
 
 Moveset changes: 
-
 ================
 
+Graveler and Golem now learn rock slide. Graveler will learn it if it evolves from geodude at level 25. Otherwise, it can be learned as golem at level 32. 
+
+Typhlosion now learns flamethrower once it evolves from quilava at level 36. Quilava learns flame wheel at level 25. 
+
 HMs are now deleteable
+
+Item changes: 
+============
 
 The earthquake, psychic, and giga drain TMs are now available earlier. 
 
@@ -92,3 +98,10 @@ The psychic TM can be found in one of the switch rooms of the rocket underground
 The giga drain TM can be found on the 6th floor of the Olivine Lighthouse. Erika also gives the TM. 
 
 The metal coat can now be found on the 5th floor of the Olivine Lighthouse. 
+
+Other significant changes:
+=========================
+
+There is a tradeback NPC in the Goldenrod City PP speech house to evolve pokemon that mandate a trade. 
+
+The Kanto gym leaders all have their pokemon's levels increased to create a more sane level curve. No other bosses have their parties changes. 
