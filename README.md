@@ -16,26 +16,63 @@ Mareep has been added to route 32 and mareep and flaaffy to routes 42 and 43.
 Move changes:
 =============
 All moves have had their power and accuracy updated to gen 5 levels. Here are the affected moves: 
+
 Dig has 80 base power
+
 Fly has 90 BP
+
 Hi jump kick has 130 BP
+
 Jump kick has 100 BP
+
 Outrage has 120 BP
+
 Petal dance has 120 BP
+
 Zap cannon has 120 BP
+
 Rock smash has 40 BP
+
 Fire Spin has 35 BP
+
 Fury Cutter has 20 BP
+
 Future sight has 100 BP
+
 Giga drain has 75 BP
+
 Tackle has 50 BP
+
 Thrash has 120 BP
+
 Whirlpool has 35 BP
+
 Low kick has 100% accuracy
+
 Razor wind has 100% accuracy
+
 Disable has 100% accuracy
+
 Flash has 100% accuracy
+
 Hypnosis has 70% accuracy 
+
 Clamp has 85% accuracy
+
 Future sight has 100% accuracy
+
 Glare has 90% accuracy
+
+Toxic is now 90% accurate
+
+Poison gas is now 80% accurate
+
+Scary face is now 100% accurate
+
+Tackle is now 100% accurate
+
+Whirlpool is now 85% accurate
+
+Wrap is now 90% accurate
+
+
