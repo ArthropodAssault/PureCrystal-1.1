@@ -13,6 +13,41 @@ Additional pokemon:
 ==================
 Mareep has been added to route 32 and mareep and flaaffy to routes 42 and 43. 
 
+Other significant changes:
+=========================
+
+There is a tradeback NPC in the Goldenrod City PP speech house to evolve pokemon that mandate a trade. 
+
+The Goldenrod City move tutor is now available after beating Jasmine. He still appears on Wednesday and Saturday. 
+
+The Kanto gym leaders all have their pokemon's levels increased to create a more sane level curve. No other bosses have their parties changes. 
+
+The opponent status & stat altering move 25% accuracy debuff is no longer in the game. All opponent status moves have their normal accuracy. 
+
+Moveset changes: 
+================
+
+Graveler and Golem now learn rock slide. Graveler will learn it if it evolves from geodude at level 25. Otherwise, it can be learned as golem at level 32. 
+
+Typhlosion now learns flamethrower once it evolves from quilava at level 36. Quilava learns flame wheel at level 25. 
+
+Crobat can learn sludge bomb via TM
+
+HMs are now deleteable
+
+Item changes: 
+============
+
+The earthquake, psychic, and giga drain TMs are now available earlier. 
+
+There are 2 earthquake TMs available. That in Victory Road is still available, and one can now be found on the 5th floor of the radio tower. 
+
+The psychic TM can be found in one of the switch rooms of the rocket underground. It remains available in Kanto in the normal places. 
+
+The giga drain TM can be found on the 6th floor of the Olivine Lighthouse. Erika also gives the TM. 
+
+The metal coat can now be found on the 5th floor of the Olivine Lighthouse. 
+
 Move changes:
 =============
 All moves have had their power and accuracy updated to gen 5 levels. Here are the affected moves: 
@@ -76,38 +111,3 @@ Whirlpool is now 85% accurate
 Wrap is now 90% accurate
 
 Giga drain now has 10 PP. PP is not changed for any other moves.
-
-Moveset changes: 
-================
-
-Graveler and Golem now learn rock slide. Graveler will learn it if it evolves from geodude at level 25. Otherwise, it can be learned as golem at level 32. 
-
-Typhlosion now learns flamethrower once it evolves from quilava at level 36. Quilava learns flame wheel at level 25. 
-
-Crobat can learn sludge bomb via TM
-
-HMs are now deleteable
-
-Item changes: 
-============
-
-The earthquake, psychic, and giga drain TMs are now available earlier. 
-
-There are 2 earthquake TMs available. That in Victory Road is still available, and one can now be found on the 5th floor of the radio tower. 
-
-The psychic TM can be found in one of the switch rooms of the rocket underground. It remains available in Kanto in the normal places. 
-
-The giga drain TM can be found on the 6th floor of the Olivine Lighthouse. Erika also gives the TM. 
-
-The metal coat can now be found on the 5th floor of the Olivine Lighthouse. 
-
-Other significant changes:
-=========================
-
-There is a tradeback NPC in the Goldenrod City PP speech house to evolve pokemon that mandate a trade. 
-
-The Goldenrod City move tutor is now available after beating Jasmine. He still appears on Wednesday and Saturday. 
-
-The Kanto gym leaders all have their pokemon's levels increased to create a more sane level curve. No other bosses have their parties changes. 
-
-The opponent status & stat altering move 25% accuracy debuff is no longer in the game. All opponent status moves have their normal accuracy. 
