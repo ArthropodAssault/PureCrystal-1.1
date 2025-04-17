@@ -75,7 +75,7 @@ Whirlpool is now 85% accurate
 
 Wrap is now 90% accurate
 
-Giga drain now has 10 PP. 
+Giga drain now has 10 PP. PP is not changed for any other moves.
 
 Moveset changes: 
 ================
