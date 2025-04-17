@@ -24,6 +24,8 @@ The Kanto gym leaders all have their pokemon's levels increased to create a more
 
 The opponent status & stat altering move 25% accuracy debuff is no longer in the game. All opponent status moves have their normal accuracy. 
 
+The clock may now be changed by simultaneously pressing down, B, and select on the title screen. There is no longer a password requirement.
+
 Moveset changes: 
 ================
 
@@ -72,15 +74,15 @@ Fire Spin has 35 BP
 
 Fury Cutter has 20 BP
 
-Future sight has 100 BP
+Future sight has 100 BP and is 100% accurate
 
-Giga drain has 75 BP
+Giga drain has 75 BP and has 10 PP. PP is not changed for any other moves.
 
-Tackle has 50 BP
+Tackle has 50 BP and is 100% accurate
 
 Thrash has 120 BP
 
-Whirlpool has 35 BP
+Whirlpool has 35 BP and is 85% accurate
 
 Low kick has 100% accuracy
 
@@ -94,8 +96,6 @@ Hypnosis has 70% accuracy
 
 Clamp has 85% accuracy
 
-Future sight has 100% accuracy
-
 Glare has 90% accuracy
 
 Toxic is now 90% accurate
@@ -104,10 +104,4 @@ Poison gas is now 80% accurate
 
 Scary face is now 100% accurate
 
-Tackle is now 100% accurate
-
-Whirlpool is now 85% accurate
-
 Wrap is now 90% accurate
-
-Giga drain now has 10 PP. PP is not changed for any other moves.
