@@ -75,4 +75,6 @@ Whirlpool is now 85% accurate
 
 Wrap is now 90% accurate
 
-
+=================================
+HMs are now deleteable
+The earthquake, psychic, and giga drain TMs are now available earlier. 
