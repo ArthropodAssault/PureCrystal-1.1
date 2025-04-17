@@ -5,9 +5,9 @@ Pokemon Pure Crystal is a ROM hack of Pokemon Crystal with only light edits, to 
 
 There are two pokemon lines with stat changes:
 =============================================
-Croconaw & feraligatr have their attack and special attack stats switched. Feraligatr's base special attack stat is now 105 and its attack is now 79. Totodile's attack is still 65 and special attack is still 44. 
+Croconaw & feraligatr have their attack and special attack stats switched. Feraligatr's base special attack stat is now 105 and its attack is now 79. Totodile's attack is still 65 and special attack is still 44. Croconaw's special attack is 80 and attack is 59. 
 
-The hoot-hoot noctowl line has the same type of stat change, and it has received the special attack buff that it did in gen 5. Ie: Noctowl has an attack stat of 86 and a special attack stat of 50. 
+The hoot-hoot noctowl line has the same type of stat change, and it has received the special attack buff that it did in gen 5. Ie: Noctowl has an attack stat of 86 and a special attack stat of 50. Hoot hoot has 36 attack and 30 special attack.
 
 Additional pokemon:
 ==================
