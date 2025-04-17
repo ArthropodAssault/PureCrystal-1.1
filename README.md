@@ -76,5 +76,15 @@ Whirlpool is now 85% accurate
 Wrap is now 90% accurate
 
 =================================
+
 HMs are now deleteable
+
 The earthquake, psychic, and giga drain TMs are now available earlier. 
+
+There are 2 earthquake TMs available. That in Victory Road is still available, and one can now be found on the 5th floor of the radio tower. 
+
+The psychic TM can be found in one of the switch rooms of the rocket underground. It remains available in Kanto in the normal places. 
+
+The giga drain TM can be found on the 6th floor of the Olivine Lighthouse. Erika also gives the TM. 
+
+Graveler and Golem now learn rock slide. Graveler will learn it if it evolves from geodude at level 25. Otherwise, it can be learned as golem at level 32. 
