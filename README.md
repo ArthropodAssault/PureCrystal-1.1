@@ -28,3 +28,14 @@ Fire Spin has 35 BP
 Fury Cutter has 20 BP
 Future sight has 100 BP
 Giga drain has 75 BP
+Tackle has 50 BP
+Thrash has 120 BP
+Whirlpool has 35 BP
+Low kick has 100% accuracy
+Razor wind has 100% accuracy
+Disable has 100% accuracy
+Flash has 100% accuracy
+Hypnosis has 70% accuracy 
+Clamp has 85% accuracy
+Future sight has 100% accuracy
+Glare has 90% accuracy
