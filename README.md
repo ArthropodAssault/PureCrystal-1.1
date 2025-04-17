@@ -77,6 +77,10 @@ Wrap is now 90% accurate
 
 =================================
 
+Moveset changes: 
+
+================
+
 HMs are now deleteable
 
 The earthquake, psychic, and giga drain TMs are now available earlier. 
@@ -87,8 +91,4 @@ The psychic TM can be found in one of the switch rooms of the rocket underground
 
 The giga drain TM can be found on the 6th floor of the Olivine Lighthouse. Erika also gives the TM. 
 
-Graveler and Golem now learn rock slide. Graveler will learn it if it evolves from geodude at level 25. Otherwise, it can be learned as golem at level 32. 
-
-Typhlosion now learns flamethrower once it evolves from quilava at level 36. Quilava learns flame wheel at level 25. 
-
-The metal coat can now be found 
+The metal coat can now be found on the 5th floor of the Olivine Lighthouse. 
