@@ -3,12 +3,6 @@ Pokemon Pure Crystal is a ROM hack of Pokemon Crystal with only light edits, to 
 
 **Change log**
 
-There are two pokemon lines with stat changes:
-=============================================
-Croconaw & feraligatr have their attack and special attack stats switched. Feraligatr's base special attack stat is now 105 and its attack is now 79. Totodile's attack is still 65 and special attack is still 44. Croconaw's special attack is 80 and attack is 59. 
-
-The hoot-hoot and noctowl line has the same type of stat change, and it has received the special attack buff that it did in gen 5. Ie: Noctowl has an attack stat of 86 and a special attack stat of 50. Hoot hoot has 36 attack and 30 special attack.
-
 Additional pokemon:
 ==================
 Mareep has been added to route 32 and mareep and flaaffy to routes 42 and 43. 
@@ -20,7 +14,9 @@ There is a tradeback NPC in the Goldenrod City PP speech house to evolve pokemon
 
 The Goldenrod City move tutor is now available after beating Jasmine. He still appears on Wednesday and Saturday. 
 
-The Kanto gym leaders all have their pokemon's levels increased to create a more sane level curve. No other bosses have their parties changes. 
+The 6 evolution stones are available from the Cianwood mart, including water, fire, thunder, leaf, moon, and sun stones.
+
+The Kanto gym leaders all have their pokemon's levels increased to create a more normal level curve. There are no other changes to boss trainer parties.
 
 The opponent status & stat altering move 25% accuracy debuff is no longer in the game. All opponent status moves have their normal accuracy. 
 
