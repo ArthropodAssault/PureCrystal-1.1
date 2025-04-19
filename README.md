@@ -29,7 +29,7 @@ The clock may now be changed by simultaneously pressing down, B, and select on t
 Moveset changes: 
 ================
 
-Graveler and Golem now learn rock slide. Graveler will learn it if it evolves from geodude at level 25. Otherwise, it can be learned as golem at level 32. 
+Graveler and Golem now learn rock slide via level up. Graveler will learn it if it evolves from geodude at level 25. Otherwise, it can be learned as golem at level 32. 
 
 Crobat can learn sludge bomb via TM
 
