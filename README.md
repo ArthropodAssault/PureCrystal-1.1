@@ -7,7 +7,7 @@ Additional pokemon:
 ==================
 Mareep has been added to route 32 and mareep and flaaffy to routes 42 and 43. 
 
-Other significant changes:
+Miscellaneous significant changes:
 =========================
 
 There is a tradeback NPC in the Goldenrod City PP speech house to evolve pokemon that mandate a trade. 
