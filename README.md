@@ -7,7 +7,7 @@ There are two pokemon lines with stat changes:
 =============================================
 Croconaw & feraligatr have their attack and special attack stats switched. Feraligatr's base special attack stat is now 105 and its attack is now 79. Totodile's attack is still 65 and special attack is still 44. Croconaw's special attack is 80 and attack is 59. 
 
-The hoot-hoot noctowl line has the same type of stat change, and it has received the special attack buff that it did in gen 5. Ie: Noctowl has an attack stat of 86 and a special attack stat of 50. Hoot hoot has 36 attack and 30 special attack.
+The hoot-hoot and noctowl line has the same type of stat change, and it has received the special attack buff that it did in gen 5. Ie: Noctowl has an attack stat of 86 and a special attack stat of 50. Hoot hoot has 36 attack and 30 special attack.
 
 Additional pokemon:
 ==================
@@ -30,8 +30,6 @@ Moveset changes:
 ================
 
 Graveler and Golem now learn rock slide. Graveler will learn it if it evolves from geodude at level 25. Otherwise, it can be learned as golem at level 32. 
-
-Typhlosion now learns flamethrower once it evolves from quilava at level 36. Quilava learns flame wheel at level 25. 
 
 Crobat can learn sludge bomb via TM
 
