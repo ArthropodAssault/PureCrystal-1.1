@@ -14,7 +14,7 @@ There is a tradeback NPC in the Goldenrod City PP speech house to evolve pokemon
 
 The Goldenrod City move tutor is now available after beating Jasmine. He still appears on Wednesday and Saturday. 
 
-The 6 evolution stones are available from the Cianwood mart, including water, fire, thunder, leaf, moon, and sun stones.
+The 6 evolution stones are available from the Cianwood mart, including water, fire, thunder, leaf, moon, and sun stones. The stones cost 5,000 pokedollars each. 
 
 The Kanto gym leaders all have their pokemon's levels increased to create a more normal level curve. There are no other changes to boss trainer parties.
 
