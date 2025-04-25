@@ -36,13 +36,13 @@ Item changes:
 
 The earthquake, psychic, and giga drain TMs are now available earlier. 
 
-There are 2 earthquake TMs available. That in Victory Road is still available, and one can now be found on the 5th floor of the radio tower. 
+An earthquake TM is found on the 5th floor of the radio tower. The eathquake TM in Victory road is still there.
 
-The psychic TM can be found in one of the switch rooms of the rocket underground. It remains available in Kanto in the normal places. 
+The psychic TM can be found in one of the switch rooms of the rocket underground. It remains available in Kanto from Mr. Psychic in Celadon City.
 
 The giga drain TM can be found on the 6th floor of the Olivine Lighthouse. Erika also gives the TM. 
 
-The metal coat can now be found on the 5th floor of the Olivine Lighthouse. 
+The metal coat can now be found on the 5th floor of the Olivine Lighthouse. You still obtain it in the other ways you could in vanilla Crystal: on the SS Aqua after finding the gentleman's grandaughter, via the Power Plant magneton trade, and by stealing from wild magnemite. 
 
 Move changes:
 =============
