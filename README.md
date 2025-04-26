@@ -38,7 +38,7 @@ The earthquake, psychic, and giga drain TMs are now available earlier.
 
 An earthquake TM is found on the 5th floor of the radio tower. The eathquake TM in Victory road is still there.
 
-The psychic TM can be found in one of the switch rooms of the rocket underground. It remains available in Kanto from Mr. Psychic in Celadon City.
+The psychic TM can be found in one of the switch rooms of the rocket underground. It remains available in Kanto from Mr. Psychic in Celadon City. The switch order to reach the southwest room with the TM is right, left, middle, right, left. 
 
 The giga drain TM can be found on the 6th floor of the Olivine Lighthouse. Erika also gives the TM. 
 
