@@ -12,7 +12,7 @@ Miscellaneous significant changes:
 
 There is a tradeback NPC in the Goldenrod City PP speech house to evolve pokemon that mandate a trade. 
 
-The Goldenrod City move tutor is now available after beating Jasmine. He still appears on Wednesday and Saturday. The cost of a move is now 1,000 coins instead of 4,000. If you are buying the coins, this is a cost reduction from 80,000 pokecurrency to 20,000.
+The Goldenrod City move tutor is now available after beating Jasmine. He still appears on Wednesday and Saturday. The cost of a move is now 1,000 coins instead of 4,000. If you are buying the coins, this is a cost reduction from 80,000 to 20,000.
 
 The 6 evolution stones are available from the Cianwood mart, including water, fire, thunder, leaf, moon, and sun stones. The stones cost 5,000 pokecurrency each. 
 
