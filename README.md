@@ -14,7 +14,7 @@ There is a tradeback NPC in the Goldenrod City PP speech house to evolve pokemon
 
 The Goldenrod City move tutor is now available after beating Jasmine. He still appears on Wednesday and Saturday. The cost of a move is now 1,000 coins instead of 4,000. If you are buying the coins, this is a cost reduction from 80,000 to 20,000.
 
-The 6 evolution stones are available from the Cianwood mart, including water, fire, thunder, leaf, moon, and sun stones. The stones cost 5,000 pokecurrency each. 
+The 6 evolution stones are available from the Cianwood mart, including water, fire, thunder, leaf, moon, and sun stones. The stones cost 5,000 each. 
 
 The Kanto gym leaders all have their pokemon's levels increased to create a more normal level curve. There are no other changes to boss trainer parties.
 
@@ -38,7 +38,7 @@ The earthquake, psychic, and giga drain TMs are now available earlier.
 
 An earthquake TM is found on the 5th floor of the radio tower. The eathquake TM in Victory road is still there.
 
-The psychic TM can be found in one of the switch rooms of the rocket underground. It remains available in Kanto from Mr. Psychic in Celadon City. The switch order to reach the southwest room with the TM is right, left, middle, right, left. You can pass back up the stairs to reset the gates to allow you to hit the switches again to proceed throught the Rocket side quest. 
+The psychic TM can be found in one of the switch rooms of the rocket underground. It remains available in Kanto from Mr. Psychic in Saffron City. The switch order to reach the southwest room with the TM is right, left, middle, right, left. You can pass back up the stairs to reset the gates to allow you to hit the switches again to proceed throught the Rocket side quest. 
 
 The giga drain TM can be found on the 6th floor of the Olivine Lighthouse. Erika also gives the TM. 
 
