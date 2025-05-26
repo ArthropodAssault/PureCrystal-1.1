@@ -3,9 +3,11 @@ Pokemon Pure Crystal is a ROM hack of Pokemon Crystal with only light edits, to 
 
 **Change log**
 
-Additional pokemon:
+Pokemon availability:
 ==================
 Mareep has been added to route 32 and mareep and flaaffy to routes 42 and 43. 
+
+Houndour is now a wild encounter on route 36 at night with a 30% encounter rate.
 
 Miscellaneous significant changes:
 =========================
@@ -26,8 +28,6 @@ Moveset changes:
 ================
 
 Graveler and Golem now learn rock slide via level up. Graveler will learn it if it evolves from geodude at level 25. Otherwise, it can be learned as golem at level 32. 
-
-Crobat can learn sludge bomb via TM
 
 HMs are now deleteable
 
