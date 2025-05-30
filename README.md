@@ -7,8 +7,6 @@ Pokemon availability:
 ==================
 Mareep has been added to route 32 and mareep and flaaffy to routes 42 and 43. 
 
-Houndour is now a wild encounter on route 36 at night with a 30% encounter rate.
-
 Miscellaneous significant changes:
 =========================
 
