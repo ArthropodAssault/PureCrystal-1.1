@@ -33,8 +33,6 @@ Quilava now learns fire punch and thunder punch via TM and learns flame wheel at
 
 Typholosion learns flamethrower as soon as it evolves at level 36 instead of level 60 and learns dragon breath instead of swift at level 45. 
 
-Croconaw learns dig at level 21 and feraligatr learns earthquake at level 36. 
-
 HMs are now deleteable
 
 Item changes: 
