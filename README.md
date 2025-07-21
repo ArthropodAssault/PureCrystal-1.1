@@ -16,8 +16,6 @@ The Goldenrod City move tutor is now available after beating Jasmine. He still a
 
 The 6 evolution stones are available from the Cianwood mart, including water, fire, thunder, leaf, moon, and sun stones. The stones cost 5,000 each. 
 
-The Kanto gym leaders all have their pokemon's levels increased to create a more normal level curve. There are no other changes to boss trainer parties.
-
 The opponent status & stat altering move 25% accuracy debuff is no longer in the game. All opponent status moves have their normal accuracy. 
 
 The clock may now be changed by simultaneously pressing down, B, and select on the title screen. There is no longer a password requirement.
@@ -47,6 +45,15 @@ The psychic TM can be found in one of the switch rooms of the rocket underground
 The giga drain TM can be found on the 6th floor of the Olivine Lighthouse. Erika also gives the TM. 
 
 The metal coat can now be found on the 5th floor of the Olivine Lighthouse. You still obtain it in the other ways you could in vanilla Crystal: on the SS Aqua after finding the gentleman's grandaughter, via the Power Plant magneton trade, and by stealing from wild magnemite. 
+
+Trainer party changes: 
+======================
+
+The Kanto gym leaders all have their pokemon's levels increased to create a more normal level curve. 
+
+Bruno's onix is now a steelix. It's moveset is unchanged - it uses earthquake, rock slide, sandstorm, and bind. 
+
+All of Brock's pokemon are fully evolved. IE - he now uses golem, rhydon, and steelix instead of graveler, rhyhorn, and onix. Their movesets are unchanged. 
 
 Move changes:
 =============
