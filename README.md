@@ -29,6 +29,11 @@ Graveler and Golem now learn rock slide via level up. Graveler will learn it if 
 
 HMs are now deleteable
 
+Base stat changes: 
+===============================
+
+The totodile line each has their attack and special attack stats reversed. Special attack is now higher to better align with the line's typing. 
+
 Item changes: 
 ============
 
