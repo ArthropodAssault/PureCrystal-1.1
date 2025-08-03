@@ -32,7 +32,7 @@ HMs are now deleteable
 Base stat changes: 
 ===============================
 
-The totodile line each has their attack and special attack stats reversed. Special attack is now higher to better align with the line's typing. 
+The totodile line each has their attack and special attack stats reversed. Special attack is now higher to better align with the line's typing. This applies to all three pokemon in the line.
 
 Item changes: 
 ============
