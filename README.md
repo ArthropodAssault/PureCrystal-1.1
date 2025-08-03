@@ -29,7 +29,7 @@ Cyndaquil now learns ember at level 6 and smokescreen at level 12.
 
 Quilava now learns fire punch and thunder punch via TM and learns flame wheel at level 17 instead of level 31. 
 
-Typholosion learns flamethrower as soon as it evolves at level 36 instead of level 60 and learns dragon breath instead of swift at level 45. 
+Typholosion learns flamethrower as soon as it evolves at level 36 instead of level 60 and learns fire blast instead of swift at level 45. 
 
 HMs are now deleteable
 
