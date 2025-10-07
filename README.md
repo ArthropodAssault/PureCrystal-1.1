@@ -25,9 +25,11 @@ All marts provide rare candies free of charge. This includes the Cianwood, Mahog
 Moveset changes: 
 ================
 
+HMs are now deleteable
+
 Graveler and Golem now learn rock slide via level up. Graveler will learn it if it evolves from geodude at level 25. Otherwise, it can be learned as golem at level 32. 
 
-HMs are now deleteable
+Gastly now learns absorb at level 7.
 
 Item changes: 
 ============
