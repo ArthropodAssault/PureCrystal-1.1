@@ -29,6 +29,8 @@ HMs are now deleteable
 
 Graveler and Golem now learn rock slide via level up. Graveler will learn it if it evolves from geodude at level 25. Otherwise, it can be learned as golem at level 32. 
 
+Crobat learns sludge bomb via TM.
+
 Item changes: 
 ============
 
