@@ -35,6 +35,8 @@ Crobat learns sludge bomb and shadow ball via TM.
 
 Feraligatr learns waterfall via HM.
 
+All 3 members of the gengar line now learn sludge bomb via TM.
+
 Item changes: 
 ============
 
