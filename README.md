@@ -110,3 +110,5 @@ Poison gas is now 80% accurate
 Scary face is now 100% accurate
 
 Wrap is now 90% accurate
+
+If playing the ROM with the physical-special split, all move's physical/special categorization is in line with the mainline games, other than mud slap, which has been changed from special to physical in this ROM.
