@@ -33,6 +33,8 @@ Graveler and Golem now learn rock slide via level up. Graveler will learn it if 
 
 Crobat learns sludge bomb and shadow ball via TM.
 
+Feraligatr learns waterfall via HM.
+
 Item changes: 
 ============
 
