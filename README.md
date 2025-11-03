@@ -22,6 +22,8 @@ The clock may now be changed by simultaneously pressing down, B, and select on t
 
 All marts provide rare candies free of charge. This includes the Cianwood, Mahogany, and Indigo Plateau marts. In the Goldenrod Department Store rare candies are available on the 4th floor. In the Celadon Department Store they are on the 5th floor. They are not sold in the Goldenrod Underground. 
 
+If playing the PureCrystalPSS ROM the physical-special split is implemented. If playing PureCrystal, it is not.
+
 Moveset changes: 
 ================
 
