@@ -59,7 +59,7 @@ Bruno's onix is now a steelix. It's moveset is unchanged - it uses earthquake, r
 
 All of Brock's pokemon are fully evolved. IE - he now uses golem, rhydon, and steelix instead of graveler, rhyhorn, and onix. Their movesets are unchanged. 
 
-Move changes:
+Cannon Move changes:
 =============
 All moves have had their power and accuracy updated to gen 5 levels. Here are the affected moves: 
 
@@ -115,4 +115,8 @@ Scary face is now 100% accurate
 
 Wrap is now 90% accurate
 
+Non-Cannon Move Changes: 
+============
 If playing the ROM with the physical-special split, all move's physical/special categorization is in line with the mainline games, other than mud slap, which has been changed from special to physical in this ROM.
+
+Rock Smash has 75 base power and a 30% probability of causing a defense drop
