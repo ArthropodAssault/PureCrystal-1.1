@@ -55,9 +55,7 @@ Trainer party changes:
 
 The Kanto gym leaders all have their pokemon's levels increased to create a more normal level curve. 
 
-Bruno's onix is now a steelix. It's moveset is unchanged - it uses earthquake, rock slide, sandstorm, and bind. 
-
-All of Brock's pokemon are fully evolved. IE - he now uses golem, rhydon, and steelix instead of graveler, rhyhorn, and onix. Their movesets are unchanged. 
+Bruno's onix is now a steelix. It's moveset is unchanged - it uses earthquake, rock slide, sandstorm, and bind.  
 
 Cannon Move changes:
 =============
@@ -117,6 +115,4 @@ Wrap is now 90% accurate
 
 Non-Cannon Move Changes: 
 ============
-If playing the ROM with the physical-special split, all move's physical/special categorization is in line with the mainline games, other than mud slap, which has been changed from special to physical in this ROM.
-
-Rock Smash has 75 base power and a 30% probability of causing a defense drop
+If playing the ROM with the physical-special split (PureCrystalPSS), all move's physical/special categorization is in line with the mainline games.
