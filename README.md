@@ -22,7 +22,8 @@ The clock may now be changed by simultaneously pressing down, B, and select on t
 
 All marts provide rare candies free of charge. This includes the Cianwood, Mahogany, and Indigo Plateau marts. In the Goldenrod Department Store rare candies are available on the 4th floor. In the Celadon Department Store they are on the 5th floor. They are not sold in the Goldenrod Underground. 
 
-If playing the PureCrystalPSS ROM the physical-special split is implemented. If playing PureCrystal, it is not.
+If playing the PureCrystalPSS ROM the physical-special split is implemented. If playing PureCrystal, it is not. In PureCrystalPSS, all move's physical/special categorization is in line with the mainline games.
+
 
 Moveset changes: 
 ================
@@ -112,7 +113,3 @@ Poison gas is now 80% accurate
 Scary face is now 100% accurate
 
 Wrap is now 90% accurate
-
-Non-Cannon Move Changes: 
-============
-If playing the ROM with the physical-special split (PureCrystalPSS), all move's physical/special categorization is in line with the mainline games.
