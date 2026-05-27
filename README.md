@@ -60,7 +60,7 @@ The Kanto gym leaders all have their pokemon's levels increased to create a more
 
 Bruno's onix is now a steelix. It's moveset is unchanged - it uses earthquake, rock slide, sandstorm, and bind.  
 
-Cannon Move changes:
+Move changes:
 =============
 All moves have had their power and accuracy updated to gen 5 levels. Here are the affected moves: 
 
