@@ -117,4 +117,4 @@ Wrap is now 90% accurate
 Adressing Gen 2 Syndrome:
 ===============
 
-Pokemon evolutionary lines or single stage pokemon introduced in gen 2 whose attacking stats are misaligned with their typing have had their attacking states reversed. Pokemon affected are the totodile line, hoot hoot line, togepi line, and sneasel.
+Evolutionary lines or single stage pokemon introduced in generation 2 whose attacking stats are misaligned with their typing have had their attacking states reversed. Pokemon affected are the totodile line, hoot hoot line, togepi line, and sneasel.
