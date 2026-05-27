@@ -116,7 +116,7 @@ Scary face is now 100% accurate
 
 Wrap is now 90% accurate
 
-Adressing Gen 2 Syndrome:
+Adressing incongruous attacking stats:
 ===============
 
 Evolutionary lines or single stage pokemon introduced in generation 2 whose attacking stats are misaligned with their typing have had their attacking stats reversed. Pokemon affected are the totodile line, hoothoot line, togepi line, and sneasel.
