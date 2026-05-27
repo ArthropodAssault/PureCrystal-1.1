@@ -10,6 +10,8 @@ Mareep has been added to route 32 and mareep and flaaffy to routes 42 and 43.
 Miscellaneous significant changes:
 =========================
 
+HMs are now useable in the field without teaching them to a pokemon. You must have the requisite badge and have the HM in your bag for this function to work.
+
 There is a tradeback NPC in the Goldenrod City PP speech house to evolve pokemon that mandate a trade. 
 
 The Goldenrod City move tutor is now available after beating Jasmine. He still appears on Wednesday and Saturday. The cost of a move is now 500 coins instead of 4,000. If you are buying the coins, this is a cost reduction from 80,000 to 10,000.
