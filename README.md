@@ -77,6 +77,7 @@ Starmie,	44,		Mystic Water,	Hydro Pump, Thunder, Blizzard, Rain Dance
 
 Alakazam,	44,		Twisted Spoon,	Psychic, Dynamic Punch, Ice Punch, Recover
 
+
 **Koga**
 
 Arbok, 		42, 	Poison Barb,	Sludge Bomb, Earthquake, Giga Drain, Glare
@@ -90,6 +91,36 @@ Venomoth,	43,		Poison Barb,	Sludge bomb, psychic, giga drain, sleep powder
 Muk,		42,		Poison Barb, 	Sludge bomb, giga drain, fire blast, minimize
 
 Crobat,		44,		Sharp beak,		Fly, toxic, giga drain, double team
+
+
+**Bruno**
+
+Hitmontop	42,		Leftovers,		Hi jump kick, dig, detect, pursuit
+
+Heracross,	42		Pink bow,		Strength, leer, earthquake, counter
+
+Hitmonlee,	42,		No item,		Hi jump kick, thief, foresight, swagger
+
+Primeape,	45,		Black belt,		Cross chop, rock slide, body slam, meditate
+
+Steelix,	44,		Soft sand,		Earthquake, iron tail, body slam, sandstorm
+
+Machamp,	46,		Black belt,		Cross chop, rock slide, earthquake, meditate
+
+**Karen**
+
+Umbreon,	42,		Gold berry,		Faint attack, toxic, confuse ray, sand attack
+
+Vileplume,	42,		Gold berry,		Sludge bomb, petal dance, giga drain, sleep powder
+
+Murkrow,	44,		Sharp beak,		Sky attack, drill peck, pursuit, mud slap
+
+Gengar,		45,		Leftovers,		Thunder, ice punch, dynamic punch, hypnosis
+
+Houndoom,	47,		Charcoal,		Fire blast, solar beam, pursuit, sunny day
+
+Tyranitar,	47, 	Hard stone,		Rock slide, earthquake, crunch, thunderbolt
+
 
 
 Will
