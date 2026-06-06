@@ -63,6 +63,17 @@ The Kanto gym leaders all have their pokemon's levels increased to create a more
 Red and the Pokemon League have updated teams:
 
 Will
+------
+Xatu, 		40, 	Leftovers, 		Psychic, Giga Drain, Drill Peck, Confuse Ray
+Exeggutor, 	41, 	Leftovers,		Psychic, Giga Drain, Sleep Powder, Leech Seed
+Jynx,		43, 	Nevermelt Ice,	Psychic, Ice Beam, Lovely Kiss, Substitute
+Espeon,		43,		Twisted Spoon,	Psychic, Zap Cannon, Reflect, Growth
+Starmie,	44,		Mystic Water,	Hydro Pump, Thunder, Blizzard, Rain Dance
+Alakazam,	44,		Twisted Spoon,	Psychic, Dynamic Punch, Ice Punch, Recover
+
+
+
+Will
 40, XATU, 		  LEFTOVERS,      GIGA_DRAIN, DRILL_PECK, CONFUSE_RAY, PSYCHIC_M
 	41, EXEGGUTOR, 	LEFTOVERS, 	    STUN_SPORE, LEECH_SEED, GIGA_DRAIN, PSYCHIC_M
 	43, JYNX, 		  NEVERMELTICE,   SUBSTITUTE, LOVELY_KISS, ICE_BEAM, PSYCHIC_M
