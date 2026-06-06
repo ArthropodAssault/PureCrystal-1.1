@@ -62,6 +62,7 @@ The Kanto gym leaders all have their pokemon's levels increased to create a more
 
 Red and the Pokemon League have updated teams:
 
+
 **Will**
 
 Xatu, 		40, 	Leftovers, 		Psychic, Giga Drain, Drill Peck, Confuse Ray
@@ -76,6 +77,19 @@ Starmie,	44,		Mystic Water,	Hydro Pump, Thunder, Blizzard, Rain Dance
 
 Alakazam,	44,		Twisted Spoon,	Psychic, Dynamic Punch, Ice Punch, Recover
 
+**Koga**
+
+Arbok, 		42, 	Poison Barb,	Sludge Bomb, Earthquake, Giga Drain, Glare
+
+Tentacruel,	42,		Mystic Water,	Hydro Pump,	Substitute, Swords Dance, Sludge Bomb
+
+Forretress,	43,		Pink bow,		Double edge, giga drain, toxic, reflect
+
+Venomoth,	43,		Poison Barb,	Sludge bomb, psychic, giga drain, sleep powder
+
+Muk,		42,		Poison Barb, 	Sludge bomb, giga drain, fire blast, minimize
+
+Crobat,		44,		Sharp beak,		Fly, toxic, giga drain, double team
 
 
 Will
