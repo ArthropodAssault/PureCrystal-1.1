@@ -65,10 +65,15 @@ Red and the Pokemon League have updated teams:
 Will
 ------
 Xatu, 		40, 	Leftovers, 		Psychic, Giga Drain, Drill Peck, Confuse Ray
+
 Exeggutor, 	41, 	Leftovers,		Psychic, Giga Drain, Sleep Powder, Leech Seed
+
 Jynx,		43, 	Nevermelt Ice,	Psychic, Ice Beam, Lovely Kiss, Substitute
+
 Espeon,		43,		Twisted Spoon,	Psychic, Zap Cannon, Reflect, Growth
+
 Starmie,	44,		Mystic Water,	Hydro Pump, Thunder, Blizzard, Rain Dance
+
 Alakazam,	44,		Twisted Spoon,	Psychic, Dynamic Punch, Ice Punch, Recover
 
 
