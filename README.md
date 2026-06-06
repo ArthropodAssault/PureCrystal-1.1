@@ -109,43 +109,43 @@ Red and the Pokemon League have updated teams:
 
 **Karen**
 --------
-Umbreon,	42,		Gold berry,		Faint attack, toxic, confuse ray, sand attack
+**Umbreon**,	42,		Gold berry,		Faint attack, toxic, confuse ray, sand attack
 
-Vileplume,	42,		Gold berry,		Sludge bomb, petal dance, giga drain, sleep powder
+**Vileplume**,	42,		Miracle seed,		Sludge bomb, petal dance, giga drain, sleep powder
 
-Murkrow,	44,		Sharp beak,		Sky attack, drill peck, pursuit, mud slap
+**Murkrow**,	44,		Sharp beak,		Sky attack, drill peck, pursuit, mud slap
 
-Gengar,		45,		Leftovers,		Thunder, ice punch, dynamic punch, hypnosis
+**Gengar**,		45,		Leftovers,		Thunder, ice punch, dynamic punch, hypnosis
 
-Houndoom,	47,		Charcoal,		Fire blast, solar beam, pursuit, sunny day
+**Houndoom**,	47,		Charcoal,		Fire blast, solar beam, pursuit, sunny day
 
-Tyranitar,	47, 	Hard stone,		Rock slide, earthquake, crunch, thunderbolt
+**Tyranitar**,	47, 	Hard stone,		Rock slide, earthquake, crunch, thunderbolt
 
 **Lance**
 --------
-Kingdra,	44,		Gold berry,		Hydro pump, octazooka, dragon breath, hyper beam
+**Kingdra**,	44,		Gold berry,		Hydro pump, octazooka, dragon breath, hyper beam
 
-Dragonite,	47,		Gold berry,		Outrage, hyper beam, thunder, thunder wave
+**Dragonite**,	47,		Gold berry,		Outrage, hyper beam, thunder, thunder wave
 
-Dragonite,	47,		Pink bow,		Outrage, hyper beam, blizzard, thunder wave
+**Dragonite**,	47,		Pink bow,		Outrage, hyper beam, blizzard, thunder wave
 
-Aerodactyl,	46,		Hard stone,		Rock slide, earthquake, hyper beam, wing attack
+**Aerodactyl**,	46,		Hard stone,		Rock slide, earthquake, hyper beam, wing attack
 
-Dragonite,	50,		Dragon scale,	Outrage, hyper beam, dynamic punch, fire blast
+**Dragonite**,	50,		Dragon scale,	Outrage, hyper beam, dynamic punch, fire blast
 
 **Red**
 --------
-Pikachu,	81,		Light ball,		Thunder, surf, sing, charm
+**Pikachu**,	81,		Light ball,		Thunder, surf, sing, charm
 
-Espeon,		73,		Twisted spoon,	Psychic, zap cannon, reflect, growth
+**Espeon**,		73,		Twisted spoon,	Psychic, zap cannon, reflect, growth
 
-Snorlax,	75,		Leftovers,		Double edge, earthquake, curse, rest
+**Snorlax**,	75,		Leftovers,		Double edge, earthquake, curse, rest
 
-Venusaur,	77,		Miracle seed,	Giga drain, hidden power (ice), growth, sleep powder
+**Venusaur**,	77,		Miracle seed,	Giga drain, hidden power (ice), growth, sleep powder
 
-Charizard,	77,		Charcoal,		Fire blast, belly drum, earthquake, hyper beam
+**Charizard**,	77,		Charcoal,		Fire blast, belly drum, earthquake, hyper beam
 
-Blastoise,	77,		Mystic water,	Surf, blizzard, zap cannon, rain dance
+**Blastoise**,	77,		Mystic water,	Surf, blizzard, zap cannon, rain dance
 
   
 
