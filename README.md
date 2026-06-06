@@ -67,45 +67,45 @@ Red and the Pokemon League have updated teams:
 --------
 **Xatu**, 		40, 	Leftovers, 		Psychic, Giga Drain, Drill Peck, Confuse Ray
 
-Exeggutor, 	41, 	Leftovers,		Psychic, Giga Drain, Sleep Powder, Leech Seed
+**Exeggutor**, 	41, 	Leftovers,		Psychic, Giga Drain, Sleep Powder, Leech Seed
 
-Jynx,		43, 	Nevermelt Ice,	Psychic, Ice Beam, Lovely Kiss, Substitute
+**Jynx**,		43, 	Nevermelt Ice,	Psychic, Ice Beam, Lovely Kiss, Substitute
 
-Espeon,		43,		Twisted Spoon,	Psychic, Zap Cannon, Reflect, Growth
+**Espeon**,		43,		Twisted Spoon,	Psychic, Zap Cannon, Reflect, Growth
 
-Starmie,	44,		Mystic Water,	Hydro Pump, Thunder, Blizzard, Rain Dance
+**Starmie**,	44,		Mystic Water,	Hydro Pump, Thunder, Blizzard, Rain Dance
 
-Alakazam,	44,		Twisted Spoon,	Psychic, Dynamic Punch, Ice Punch, Recover
+**Alakazam**,	44,		Twisted Spoon,	Psychic, Dynamic Punch, Ice Punch, Recover
 
 
 **Koga**
 --------
-Arbok, 		42, 	Poison Barb,	Sludge Bomb, Earthquake, Giga Drain, Glare
+**Arbok**, 		42, 	Poison Barb,	Sludge Bomb, Earthquake, Giga Drain, Glare
 
-Tentacruel,	42,		Mystic Water,	Hydro Pump,	Substitute, Swords Dance, Sludge Bomb
+**Tentacruel**,	42,		Mystic Water,	Hydro Pump,	Substitute, Swords Dance, Sludge Bomb
 
-Forretress,	43,		Pink bow,		Double edge, giga drain, toxic, reflect
+**Forretress**,	43,		Pink bow,		Double edge, giga drain, toxic, reflect
 
-Venomoth,	43,		Poison Barb,	Sludge bomb, psychic, giga drain, sleep powder
+**Venomoth**,	43,		Poison Barb,	Sludge bomb, psychic, giga drain, sleep powder
 
-Muk,		42,		Poison Barb, 	Sludge bomb, giga drain, fire blast, minimize
+**Muk**,		42,		Poison Barb, 	Sludge bomb, giga drain, fire blast, minimize
 
-Crobat,		44,		Sharp beak,		Fly, toxic, giga drain, double team
+**Crobat**,		44,		Sharp beak,		Fly, toxic, giga drain, double team
 
 
 **Bruno**
 --------
-Hitmontop	42,		Leftovers,		Hi jump kick, dig, detect, pursuit
+**Hitmontop**,	42,		Leftovers,		Hi jump kick, dig, detect, pursuit
 
-Heracross,	42		Pink bow,		Strength, leer, earthquake, counter
+**Heracross**,	42		Pink bow,		Strength, leer, earthquake, counter
 
-Hitmonlee,	42,		No item,		Hi jump kick, thief, foresight, swagger
+**Hitmonlee**,	42,		No item,		Hi jump kick, thief, foresight, swagger
 
-Primeape,	45,		Black belt,		Cross chop, rock slide, body slam, meditate
+**Primeape**,	45,		Black belt,		Cross chop, rock slide, body slam, meditate
 
-Steelix,	44,		Soft sand,		Earthquake, iron tail, body slam, sandstorm
+**Steelix**,	44,		Soft sand,		Earthquake, iron tail, body slam, sandstorm
 
-Machamp,	46,		Black belt,		Cross chop, rock slide, earthquake, meditate
+**Machamp**,	46,		Black belt,		Cross chop, rock slide, earthquake, meditate
 
 **Karen**
 --------
