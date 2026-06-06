@@ -65,7 +65,7 @@ Red and the Pokemon League have updated teams:
 
 **Will**
 
-Xatu, 		40, 	Leftovers, 		Psychic, Giga Drain, Drill Peck, Confuse Ray
+-- Xatu, 		40, 	Leftovers, 		Psychic, Giga Drain, Drill Peck, Confuse Ray
 
 Exeggutor, 	41, 	Leftovers,		Psychic, Giga Drain, Sleep Powder, Leech Seed
 
