@@ -62,8 +62,8 @@ The Kanto gym leaders all have their pokemon's levels increased to create a more
 
 Red and the Pokemon League have updated teams:
 
-Will
-------
+**Will**
+
 Xatu, 		40, 	Leftovers, 		Psychic, Giga Drain, Drill Peck, Confuse Ray
 
 Exeggutor, 	41, 	Leftovers,		Psychic, Giga Drain, Sleep Powder, Leech Seed
