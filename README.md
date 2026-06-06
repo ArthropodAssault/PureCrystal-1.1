@@ -55,6 +55,68 @@ The giga drain TM can be found on the 6th floor of the Olivine Lighthouse. Erika
 
 The metal coat can now be found on the 5th floor of the Olivine Lighthouse. You still obtain it in the other ways you could in vanilla Crystal: on the SS Aqua after finding the gentleman's grandaughter, via the Power Plant magneton trade, and by stealing from wild magnemite. 
 
+
+Move changes:
+=============
+All moves have had their power and accuracy updated to gen 5 levels. Here are the affected moves: 
+
+Dig has 80 base power
+
+Fly has 90 BP
+
+Hi jump kick has 130 BP
+
+Jump kick has 100 BP
+
+Outrage has 120 BP
+
+Petal dance has 120 BP
+
+Zap cannon has 120 BP
+
+Rock smash has 40 BP
+
+Fire Spin has 35 BP
+
+Fury Cutter has 20 BP
+
+Future sight has 100 BP and is 100% accurate
+
+Giga drain has 75 BP and has 10 PP. PP is not changed for any other moves.
+
+Tackle has 50 BP and is 100% accurate
+
+Thrash has 120 BP
+
+Whirlpool has 35 BP and is 85% accurate
+
+Low kick has 100% accuracy
+
+Razor wind has 100% accuracy
+
+Disable has 100% accuracy
+
+Flash has 100% accuracy
+
+Hypnosis has 70% accuracy 
+
+Clamp has 85% accuracy
+
+Glare has 90% accuracy
+
+Toxic is now 90% accurate
+
+Poison gas is now 80% accurate
+
+Scary face is now 100% accurate
+
+Wrap is now 90% accurate
+
+Adressing incongruous attacking stats:
+===============
+
+Evolutionary lines or single stage pokemon introduced in generation 2 whose attacking stats are misaligned with their typing have had their attacking stats reversed. Pokemon affected are the totodile line, hoothoot line, togepi line, and sneasel.
+
 Trainer party changes: 
 ======================
 
@@ -146,66 +208,3 @@ Red and the Pokemon League have updated teams:
 **Charizard**,	77,		Charcoal,		Fire blast, belly drum, earthquake, hyper beam
 
 **Blastoise**,	77,		Mystic water,	Surf, blizzard, zap cannon, rain dance
-
-  
-
-Move changes:
-=============
-All moves have had their power and accuracy updated to gen 5 levels. Here are the affected moves: 
-
-Dig has 80 base power
-
-Fly has 90 BP
-
-Hi jump kick has 130 BP
-
-Jump kick has 100 BP
-
-Outrage has 120 BP
-
-Petal dance has 120 BP
-
-Zap cannon has 120 BP
-
-Rock smash has 40 BP
-
-Fire Spin has 35 BP
-
-Fury Cutter has 20 BP
-
-Future sight has 100 BP and is 100% accurate
-
-Giga drain has 75 BP and has 10 PP. PP is not changed for any other moves.
-
-Tackle has 50 BP and is 100% accurate
-
-Thrash has 120 BP
-
-Whirlpool has 35 BP and is 85% accurate
-
-Low kick has 100% accuracy
-
-Razor wind has 100% accuracy
-
-Disable has 100% accuracy
-
-Flash has 100% accuracy
-
-Hypnosis has 70% accuracy 
-
-Clamp has 85% accuracy
-
-Glare has 90% accuracy
-
-Toxic is now 90% accurate
-
-Poison gas is now 80% accurate
-
-Scary face is now 100% accurate
-
-Wrap is now 90% accurate
-
-Adressing incongruous attacking stats:
-===============
-
-Evolutionary lines or single stage pokemon introduced in generation 2 whose attacking stats are misaligned with their typing have had their attacking stats reversed. Pokemon affected are the totodile line, hoothoot line, togepi line, and sneasel.
