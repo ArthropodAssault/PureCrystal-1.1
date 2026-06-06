@@ -64,8 +64,8 @@ Red and the Pokemon League have updated teams:
 
 
 **Will**
-
--- Xatu, 		40, 	Leftovers, 		Psychic, Giga Drain, Drill Peck, Confuse Ray
+--------
+Xatu, 		40, 	Leftovers, 		Psychic, Giga Drain, Drill Peck, Confuse Ray
 
 Exeggutor, 	41, 	Leftovers,		Psychic, Giga Drain, Sleep Powder, Leech Seed
 
@@ -79,7 +79,7 @@ Alakazam,	44,		Twisted Spoon,	Psychic, Dynamic Punch, Ice Punch, Recover
 
 
 **Koga**
-
+--------
 Arbok, 		42, 	Poison Barb,	Sludge Bomb, Earthquake, Giga Drain, Glare
 
 Tentacruel,	42,		Mystic Water,	Hydro Pump,	Substitute, Swords Dance, Sludge Bomb
@@ -94,7 +94,7 @@ Crobat,		44,		Sharp beak,		Fly, toxic, giga drain, double team
 
 
 **Bruno**
-
+--------
 Hitmontop	42,		Leftovers,		Hi jump kick, dig, detect, pursuit
 
 Heracross,	42		Pink bow,		Strength, leer, earthquake, counter
@@ -108,7 +108,7 @@ Steelix,	44,		Soft sand,		Earthquake, iron tail, body slam, sandstorm
 Machamp,	46,		Black belt,		Cross chop, rock slide, earthquake, meditate
 
 **Karen**
-
+--------
 Umbreon,	42,		Gold berry,		Faint attack, toxic, confuse ray, sand attack
 
 Vileplume,	42,		Gold berry,		Sludge bomb, petal dance, giga drain, sleep powder
@@ -122,7 +122,7 @@ Houndoom,	47,		Charcoal,		Fire blast, solar beam, pursuit, sunny day
 Tyranitar,	47, 	Hard stone,		Rock slide, earthquake, crunch, thunderbolt
 
 **Lance**
-
+--------
 Kingdra,	44,		Gold berry,		Hydro pump, octazooka, dragon breath, hyper beam
 
 Dragonite,	47,		Gold berry,		Outrage, hyper beam, thunder, thunder wave
@@ -134,7 +134,7 @@ Aerodactyl,	46,		Hard stone,		Rock slide, earthquake, hyper beam, wing attack
 Dragonite,	50,		Dragon scale,	Outrage, hyper beam, dynamic punch, fire blast
 
 **Red**
-
+--------
 Pikachu,	81,		Light ball,		Thunder, surf, sing, charm
 
 Espeon,		73,		Twisted spoon,	Psychic, zap cannon, reflect, growth
