@@ -40,7 +40,7 @@ Crobat learns sludge bomb and shadow ball via TM.
 
 Feraligatr learns waterfall via HM.
 
-Scyther now learns wing attack at level 22 and agility at level 30.
+Scyther now learns false swipe at level 15, wing attack at level 22 and agility at level 30.
 
 Scizor now learns metal claw at level 21 and steel wing at level 28.
 
