@@ -40,9 +40,9 @@ Crobat learns sludge bomb and shadow ball via TM.
 
 Feraligatr learns waterfall via HM.
 
-Scyther now learns wing attack at level 22 instead of 30 and agility at level 30 instead of 24. 
+Scyther now learns wing attack at level 22 and agility at level 30.
 
-Scizor now learns metal claw at level 24 instead of 30 and learns steel wing via level up at level 28.
+Scizor now learns metal claw at level 24 and learns steel wing at level 28.
 
 Heracross now learns karate chop at level 15 and cross chop at level 40.
 
