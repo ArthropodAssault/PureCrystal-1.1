@@ -199,6 +199,8 @@ Red and the Pokemon League have updated teams:
 
 **Aerodactyl**,	46,		Hard stone,		Rock slide, earthquake, hyper beam, wing attack
 
+**Charizard**   46,   Charcoal,     Fire blast, hidden power (grass), hyper beam, dragon breath
+
 **Dragonite**,	50,		Dragon scale,	Outrage, hyper beam, dynamic punch, fire blast
 
 **Red**
