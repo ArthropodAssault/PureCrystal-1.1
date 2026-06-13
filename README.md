@@ -40,6 +40,12 @@ Crobat learns sludge bomb and shadow ball via TM.
 
 Feraligatr learns waterfall via HM.
 
+Scyther now learns wing attack at level 22 instead of 30 and agility at level 30 instead of 24. 
+
+Scizor now learns metal claw at level 24 instead of 30 and learns steel wing via level up at level 28.
+
+Heracross now learns karate chop at level 15 and cross chop at level 40.
+
 All 3 members of the gengar line now learn sludge bomb via TM.
 
 Item changes: 
@@ -146,9 +152,9 @@ Red and the Pokemon League have updated teams:
 
 **Tentacruel**,	42,		Mystic Water,	Hydro Pump,	Substitute, Swords Dance, Sludge Bomb
 
-**Forretress**,	43,		Pink bow,		Double edge, giga drain, toxic, reflect
+**Scizor**,	43,		Pink bow,		Swords dance, strength, steel wing, wing attack
 
-**Venomoth**,	43,		Poison Barb,	Sludge bomb, psychic, giga drain, sleep powder
+**Nidoqueen**,	43,		Soft sand,	Lovely kiss, earthquake, blizzard, thunder
 
 **Muk**,		42,		Poison Barb, 	Sludge bomb, giga drain, fire blast, minimize
 
@@ -159,7 +165,7 @@ Red and the Pokemon League have updated teams:
 --------
 **Hitmontop**,	42,		Leftovers,		Hi jump kick, dig, detect, pursuit
 
-**Heracross**,	42		Pink bow,		Strength, leer, earthquake, counter
+**Heracross**,	42		Black belt,		Cross chop, earthquake, strength, curse
 
 **Hitmonlee**,	42,		No item,		Hi jump kick, thief, foresight, swagger
 
