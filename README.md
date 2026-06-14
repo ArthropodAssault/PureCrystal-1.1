@@ -40,7 +40,7 @@ Crobat learns sludge bomb and shadow ball via TM.
 
 Feraligatr learns waterfall via HM.
 
-Scizor now learns steel wing in place of metal claw at level 30.
+Scizor now learns steel wing at level 32.
 
 Heracross now learns karate chop at level 15 and cross chop at level 40.
 
