@@ -28,6 +28,7 @@ Repel is now a key item that can be turned on/off and is infinite when on.
 
 If playing the PureCrystalPSS ROM the physical-special split is implemented. If playing PureCrystal, it is not. In PureCrystalPSS, all move's physical/special categorization is the same as in the vanilla games.
 
+The Victory Road gate to Route 28 and Mt. Silver opens after defeating Lance, rather than Blue.
 
 Moveset changes: 
 ================
