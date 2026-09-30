@@ -44,7 +44,7 @@ Quilava learns flame wheel at level 18. Typhlosion learns flamethrower at level 
 
 Scizor now learns steel wing at level 32.
 
-Heracross now learns karate chop at level 15 and cross chop at level 40.
+Heracross now learns karate chop at level 15 and jump kick at level 40.
 
 All 3 members of the gengar line now learn sludge bomb via TM.
 
