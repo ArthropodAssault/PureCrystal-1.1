@@ -35,8 +35,6 @@ Moveset changes:
 
 HMs are now deleteable
 
-Graveler and Golem now learn rock slide via level up. Graveler will learn it if it evolves from geodude at level 25. Otherwise, it can be learned as golem at level 32. 
-
 Crobat learns sludge bomb and shadow ball via TM.
 
 Feraligatr learns waterfall via HM.
@@ -44,8 +42,6 @@ Feraligatr learns waterfall via HM.
 Quilava learns flame wheel at level 18. Typhlosion learns flamethrower at level 38 and fire blast at level 60. Quilava leans fire punch and thunder punch via TM. 
 
 Scizor now learns steel wing at level 32.
-
-Heracross now learns karate chop at level 15.
 
 All 3 members of the gengar line now learn sludge bomb via TM.
 
