@@ -35,15 +35,11 @@ Moveset changes:
 
 HMs are now deleteable
 
-Crobat learns sludge bomb and shadow ball via TM.
+Crobat learns sludge bomb via TM.
 
 Feraligatr learns waterfall via HM.
 
 Quilava learns flame wheel at level 18. Typhlosion learns flamethrower at level 38 and fire blast at level 60. Quilava leans fire punch and thunder punch via TM. 
-
-Scizor now learns steel wing at level 32.
-
-All 3 members of the gengar line now learn sludge bomb via TM.
 
 Item changes: 
 ============
