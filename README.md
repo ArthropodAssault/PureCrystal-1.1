@@ -54,8 +54,7 @@ The psychic TM can be found in one of the switch rooms of the Goldenrod undergro
 
 The giga drain TM can be found on the 6th floor of the Olivine Lighthouse. Erika also gives the TM. 
 
-The metal coat can now be found on the 5th floor of the Olivine Lighthouse. You still obtain it in the other ways you could in vanilla Crystal: on the SS Aqua after finding the gentleman's grandaughter, via the Power Plant magneton trade, and by stealing from wild magnemite. 
-
+Wild magnemite now have a 25% probability of holding a metal coat, instead of 2%. 
 
 Move changes:
 =============
