@@ -14,7 +14,7 @@ HMs are now useable in the field without teaching them to a pokemon. You must ha
 
 There is a tradeback NPC in the Goldenrod City PP speech house to evolve pokemon that mandate a trade. 
 
-The Goldenrod City move tutor is now available after beating Jasmine. He still appears on Wednesday and Saturday. The cost of a move is now 500 coins instead of 4,000. If you are buying the coins, this is a cost reduction from 80,000 to 10,000.
+The Goldenrod City move tutor is now available after beating Jasmine. He still appears on Wednesday and Saturday. The cost of a move is still 4,000 coins, which cost 80,000.
 
 4 evolution stones - water, thunder, fire, and leaf - are available from the Ecruteak mart. The stones cost 5,000 each. 
 
