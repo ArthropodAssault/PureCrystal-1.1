@@ -16,7 +16,7 @@ There is a tradeback NPC in the Goldenrod City PP speech house to evolve pokemon
 
 The Goldenrod City move tutor is now available after beating Jasmine. He still appears on Wednesday and Saturday. The cost of a move is still 4,000 coins, which cost 80,000.
 
-4 evolution stones - water, thunder, fire, and leaf - are available from the Ecruteak mart. The stones cost 5,000 each. 
+4 evolution stones - water, thunder, fire, and leaf - are available from the Ecruteak mart. The stones cost 500 each. 
 
 The opponent status & stat altering move 25% accuracy debuff is no longer in the game. All opponent status moves have their normal accuracy. 
 
