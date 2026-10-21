@@ -10,7 +10,7 @@ Mareep has been added to route 32 and mareep and flaaffy to routes 42 and 43.
 Miscellaneous significant changes:
 =========================
 
-HMs are now useable in the field without teaching them to a pokemon. You must have the requisite badge and have the HM in your bag for this function to work.
+HMs are now useable in the field without teaching them to a pokemon. You must have the requisite badge and have the HM in your bag for this function to work. Rock smash is also useable in the field without being taught to a pokemon once the TM is obtained. This checks for the TM being in the bag or taught to a party pokemon. If the rock smash TM is taught and then forgotten or the knower is boxed, then it will no longer be accessible as a field move. 
 
 There is a tradeback NPC in the Goldenrod City PP speech house to evolve pokemon that mandate a trade. 
 
