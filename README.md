@@ -3,20 +3,16 @@ Pokemon Pure Crystal is a ROM hack of Pokemon Crystal with only light edits, to 
 
 **Change log**
 
-Pokemon availability:
-==================
-Mareep has been added to route 32 and mareep and flaaffy to routes 42 and 43. 
-
 Miscellaneous significant changes:
 =========================
 
-HMs are now useable in the field without teaching them to a pokemon. You must have the requisite badge and have the HM in your bag for this function to work. Rock smash and headbutt are also useable in the field without being taught to a pokemon once the TM is obtained. This checks for the TM being in the bag or taught to a party pokemon. If the TM is taught and then forgotten or the knower is boxed, then it will no longer be accessible as a field move. 
+HMs are now useable in the field without teaching them to a pokemon. You must have the requisite badge and have the HM in your bag for this function to work. 
 
 HMs are now deleteable
 
-There is a tradeback NPC in the Goldenrod City PP speech house to evolve pokemon that mandate a trade. 
+Rock smash and headbutt are also useable in the field without being taught to a pokemon once the TM is obtained. The rock smash and headbutt field move function checks for the TM being in the bag or taught to a party pokemon. If the TM is taught and then forgotten or the knower is boxed, then it will no longer be accessible as a field move. 
 
-The Goldenrod City move tutor is now available after beating Jasmine. He still appears on Wednesday and Saturday. The cost of a move is still 4,000 coins, which cost 80,000.
+There is a tradeback NPC in the Goldenrod City PP speech house to evolve pokemon that mandate a trade. 
 
 4 evolution stones - water, thunder, fire, and leaf - are available from the Ecruteak mart. The stones cost 500 each. 
 
