@@ -91,4 +91,4 @@ Wrap is now 90% accurate
 Trainer party changes: 
 ======================
 
-The Kanto gym leaders all have their pokemon's levels increased to create a more normal level curve. 
+The Kanto gym leaders all have their pokemons' levels increased to create a more normal level curve. 
