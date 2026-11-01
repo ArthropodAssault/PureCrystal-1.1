@@ -30,6 +30,8 @@ The Victory Road gate to Route 28 and Mt. Silver opens after defeating Lance, ra
 
 Wild magnemite now have a 25% probability of holding a metal coat, instead of 2%. 
 
+Wild horsea and seadra now have a 25% probability of holding a dragon scale, instead of 2%. 
+
 Move changes:
 =============
 All moves have had their power and accuracy updated to gen 5 levels. Here are the affected moves: 
