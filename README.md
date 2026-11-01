@@ -12,6 +12,8 @@ Miscellaneous significant changes:
 
 HMs are now useable in the field without teaching them to a pokemon. You must have the requisite badge and have the HM in your bag for this function to work. Rock smash and headbutt are also useable in the field without being taught to a pokemon once the TM is obtained. This checks for the TM being in the bag or taught to a party pokemon. If the TM is taught and then forgotten or the knower is boxed, then it will no longer be accessible as a field move. 
 
+HMs are now deleteable
+
 There is a tradeback NPC in the Goldenrod City PP speech house to evolve pokemon that mandate a trade. 
 
 The Goldenrod City move tutor is now available after beating Jasmine. He still appears on Wednesday and Saturday. The cost of a move is still 4,000 coins, which cost 80,000.
@@ -29,17 +31,6 @@ Repel is now a key item that can be turned on/off and is infinite when on.
 If playing the PureCrystalPSS ROM the physical-special split is implemented. If playing PureCrystal, it is not. In PureCrystalPSS, all move's physical/special categorization is the same as in the vanilla games.
 
 The Victory Road gate to Route 28 and Mt. Silver opens after defeating Lance, rather than Blue.
-
-Moveset changes: 
-================
-
-HMs are now deleteable
-
-Crobat learns sludge bomb via TM.
-
-Feraligatr learns waterfall via HM.
-
-Quilava learns flame wheel at level 18. Typhlosion learns flamethrower at level 38 and fire blast at level 60. Quilava leans fire punch and thunder punch via TM. 
 
 Item changes: 
 ============
